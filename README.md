@@ -7,7 +7,7 @@ This is a work in progress; it may or may not be usable, and what I add might be
 <center>
   <img src="docs/project-code.png">
   <img src="docs/touchbar-controls.png">
-  <em>Left-to-right: Esc key (from MacOS), "Find in Project", bookmarks (jump to previous, toggle, jump to next), and the buttons selected for "Control Strip" in Mac Preferences</em>
+  <em>Left-to-right: Esc key (from MacOS), "Find in Project", "Select inside brackets", bookmarks (jump to previous, toggle, jump to next), and the buttons selected for "Control Strip" in Mac Preferences</em>
 </center>
 
 ----
