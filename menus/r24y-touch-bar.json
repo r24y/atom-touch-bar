@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle r24y-touch-bar",
+        "command": "r24y-touch-bar:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "r24y-touch-bar",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "r24y-touch-bar:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
