@@ -1,9 +1,11 @@
 {
   "name": "r24y-touch-bar",
   "main": "./lib/r24y-touch-bar",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Customized TouchBar setup for my MacBook Pro and Atom",
-  "keywords": ["touchbar"],
+  "keywords": [
+    "touchbar"
+  ],
   "activationHooks": [
     "core:loaded-shell-environment"
   ],
