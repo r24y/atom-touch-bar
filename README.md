@@ -9,7 +9,7 @@ This is a work in progress; it may or may not be usable, and what I add might be
 <center>
   <img src="docs/project-code.png">
   <img src="docs/touchbar-controls.png">
-  <p><em>Left-to-right: Esc key (from MacOS), "Find in Project", "Select inside brackets", bookmarks (jump to previous, toggle, jump to next), and the buttons selected for "Control Strip" in Mac Preferences</em></p>
+  <p><em>Left-to-right: Esc key (from MacOS), fold line, unfold line, "Find in Project", "Select inside brackets", and bookmarks (jump to previous, toggle, jump to next)</em></p>
   <img src="docs/touchbar-find-replace.png">
   <p><em>Options for find/replace and Project Find are displayed when the appropriate panels are visible. Please note that this is a super hacky implementation and might break.</em></p>
 </center>
